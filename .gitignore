@@ -3,7 +3,6 @@ __pycache__/
 .ipynb_checkpoints/
 venv/
 .env
-*.weights
 *.pt
 *.jpg
 *.jpeg
