@@ -3,9 +3,4 @@ __pycache__/
 .ipynb_checkpoints/
 venv/
 .env
-*.pt
-*.jpg
-*.jpeg
-*.png
-*.pdf
 EOF
