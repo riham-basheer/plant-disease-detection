@@ -23,3 +23,7 @@ Part of an AI-based decision support system for precision agriculture — automa
 ## Tech Stack
 
 Python, TensorFlow/Keras, YOLOv5, OpenCV, NumPy, Pandas, Matplotlib
+
+---
+
+_This repository covers the computer vision and deep learning components developed during the internship. The full project — an AI-based decision support system for precision agriculture — was part of Egypt's COP 27 initiative._
